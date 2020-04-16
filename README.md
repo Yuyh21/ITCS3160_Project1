@@ -2,7 +2,7 @@
 By Niara Parker
 
 ## TOC Outline:
-Introduction
+[Introduction](#i-introduction)
 
 Use Case
 
