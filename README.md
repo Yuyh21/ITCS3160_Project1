@@ -4,21 +4,21 @@ By Niara Parker
 ## TOC Outline:
 [Introduction](#i-introduction)
 
-Use Case
+[Use Case](#ii-use-case)
 
-Business Rules
+[Business Rules](#iii-business-rules)
 
-EERD
+[EERD](#iv-eerd)
 
-MySQL Queries
+[MySQL Queries](#v-mysql-queries)
 
-Trigger
+[Trigger](#vi-trigger)
 
-Stored Procedure
+[Stored Procedure](#vii-stored-procedure)
 
-Web/App Implementation (Optional) or Description of Future Work
+[Web/App Implementation (Optional) or Description of Future Work](#viii-web/app-inplementation-(optional)-or-description-of-future-work)
 
-MySQL dump
+[MySQL dump](#ix-mysql-dumb)
 
 ### I. Introduction
 
