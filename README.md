@@ -1,22 +1,25 @@
 # ITCS3160_Project1
 By Niara Parker
 
-TOC Outline:
+##TOC Outline:
 
-I. Introduction
+##I. Introduction
 
-II. Use Case
+Food delivery services are becoming very popular on campus, however, the steady flow of visitors that deliver the food to students is something that is concerning due to the threat of security on campus. To resolve this problem, many campuses are utilizing food services where it is 100% employed by the students that attend their school. With this new delivery service, the goal of this project is to create a database that keeps track of everything regarding the delivery service and to guarantee that remains a campus controlled service where know outsiders intrude.
 
-III. Business Rules
 
-IV. EERD
+##II. Use Case
 
-V. MySQL Queries (three)
+##III. Business Rules
 
-VI. Trigger
+##IV. EERD
 
-VII. Stored Procedure
+##V. MySQL Queries (three)
 
-VIII. Web/App Implementation (Optional) or Description of Future Work
+##VI. Trigger
+
+##VII. Stored Procedure
+
+##VIII. Web/App Implementation (Optional) or Description of Future Work
 
 IX. MySQL dump
