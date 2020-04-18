@@ -73,6 +73,8 @@ This database will also serve as a source for providing valuabe information abou
 
 ### IV. EERD
 
+![EERD](EERD.png)
+
 ### V. MySQL Queries (three)
 
 ### VI. Trigger
