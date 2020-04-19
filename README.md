@@ -10,15 +10,17 @@ By Niara Parker
 
 [EERD](#iv-eerd)
 
-[MySQL Queries](#v-mysql-queries)
+[Data Dictionary](#v-data-dictionary)
 
-[Trigger](#vi-trigger)
+[MySQL Queries](#vi-mysql-queries)
 
-[Stored Procedure](#vii-stored-procedure)
+[Trigger](#vii-trigger)
 
-[Web/App Implementation (Optional) or Description of Future Work](#viii-web/app-inplementation-(optional)-or-description-of-future-work)
+[Stored Procedure](#viii-stored-procedure)
 
-[MySQL dump](#ix-mysql-dumb)
+[Web/App Implementation (Optional) or Description of Future Work](#ix-web/app-inplementation-(optional)-or-description-of-future-work)
+
+[MySQL dump](#x-mysql-dumb)
 
 ### I. Introduction
 
@@ -77,12 +79,14 @@ This database will also serve as a source for providing valuabe information abou
 
 ![unccdeliveryEERD](unccdeliveryEERD.png)
 
-### V. MySQL Queries (three)
+### V. Data Dictionary
 
-### VI. Trigger
+### VI. MySQL Queries (three)
 
-### VII. Stored Procedure
+### VII. Trigger
 
-### VIII. Web/App Implementation (Optional) or Description of Future Work
+### VIII. Stored Procedure
 
-### IX. MySQL dump
+### IX. Web/App Implementation (Optional) or Description of Future Work
+
+### X. MySQL dump
