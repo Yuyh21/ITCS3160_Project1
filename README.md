@@ -99,6 +99,8 @@ This database will also serve as a source for providing valuabe information abou
 
 ![Employee_Type_DataDict](Employee_Type_DataDict.png)
 
+![Vendors_DataDict](Vendors_DataDict.png)
+
 ### VI. MySQL Queries (three)
 
 ### VII. Trigger
