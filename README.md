@@ -83,7 +83,7 @@ This database will also serve as a source for providing valuabe information abou
 
 ![CustomersDataDict](CustomersDataDict.png)
 
-!(Delivery_PersonnelDataDict](Delivery_PersonnelDataDict.png)
+![Delivery_PersonnelDataDict](Delivery_PersonnelDataDict.png)
 
 ### VI. MySQL Queries (three)
 
