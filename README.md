@@ -87,6 +87,8 @@ This database will also serve as a source for providing valuabe information abou
 
 ![Employees_DataDict](Employees_DataDict.png)
 
+![Faculty_DataDict](Faculty_DataDict.png)
+
 ### VI. MySQL Queries (three)
 
 ### VII. Trigger
