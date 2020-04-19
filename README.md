@@ -91,6 +91,8 @@ This database will also serve as a source for providing valuabe information abou
 
 ![Location_DataDict](Location_DataDict.png)
 
+![Orders_DataDict](Orders_DataDict.png)
+
 ### VI. MySQL Queries (three)
 
 ### VII. Trigger
