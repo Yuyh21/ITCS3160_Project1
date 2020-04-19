@@ -75,7 +75,7 @@ This database will also serve as a source for providing valuabe information abou
 
 ### IV. EERD
 
-![unccdeliveryEERD](unccdeliveryEERD.png.mwb)
+![unccdeliveryEERD](unccdeliveryEERD.png)
 
 ### V. MySQL Queries (three)
 
