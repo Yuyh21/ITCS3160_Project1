@@ -81,7 +81,7 @@ This database will also serve as a source for providing valuabe information abou
 
 ### V. Data Dictionary
 
-![CustomersDataDict](CustomersDataDict.png)
+![CustomersDataDict](CustomersDataDict(1).png)
 
 ### VI. MySQL Queries (three)
 
