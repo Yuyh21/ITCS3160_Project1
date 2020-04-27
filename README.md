@@ -110,3 +110,45 @@ This database will also serve as a source for providing valuabe information abou
 ### IX. Web/App Implementation (Optional) or Description of Future Work
 
 ### X. MySQL dump
+
+This is a dumb of the UNCC Delivery schema that displays all the tables.
+
+#### Customers Table
+
+![uncc_delivery_customers](uncc_delivery_customers.sql)
+
+#### Employees Table
+
+![uncc_delivery_employees](uncc_delivery_employees.sql)
+
+#### Employee Type Table
+
+![uncc_delivery_employee_type](uncc_delivery_employee_type.sql)
+
+#### Faculty Employee Table
+
+![uncc_delivery_faculty_employee](uncc_delivery_faculty_employee.sql)
+
+#### Staff Employee Table
+
+![uncc_delivery_staff_employee](uncc_delivery_staff_employee.sql)
+
+#### Student Employee Table
+
+![uncc_delivery_student_employee](uncc_delivery_student_employee.sql)
+
+#### Delivery Personnel Table
+
+![uncc_delivery_delivery_personnel](uncc_delivery_personnel.sql)
+
+#### Locations Table
+
+![uncc_delivery_locations](uncc_delivery_locations.sql)
+
+#### Vendors Table
+
+![uncc_delivery_vendors](uncc_delivery_vendors.sql)
+
+#### Orders Table
+
+![uncc_delivery_orders](uncc_delivery_orders.sql)
