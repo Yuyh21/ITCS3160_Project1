@@ -115,7 +115,7 @@ This is a dumb of the UNCC Delivery schema that displays all the tables.
 
 #### Customers Table
 
-This is the [customer table data](uncc_delivery_customers.sql)
+This is the [customers table dump file](uncc_delivery_customers.sql). Below is an image of the populated table:
 
 #### Employees Table
 
