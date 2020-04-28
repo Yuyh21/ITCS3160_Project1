@@ -115,7 +115,7 @@ This is a dumb of the UNCC Delivery schema that displays all the tables.
 
 #### Customers Table
 
-![uncc_delivery_customers](uncc_delivery_customers.sql)
+This is the [customer table data](uncc_delivery_customers.sql)
 
 #### Employees Table
 
