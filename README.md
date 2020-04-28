@@ -119,7 +119,7 @@ This is the [customers table dump file](uncc_delivery_customers.sql). Below is a
 
 ![customersTable](customersTable.png)
 
-As shown by the image above, the table consists of important information pertaining to the customer which includes their first and last name, credit card information, location, and their order identification number.
+As shown by the image above, the table consists of important information pertaining to the customer which includes their first and last name, password, credit card information, and a customer ID .
 
 #### Employees Table
 
