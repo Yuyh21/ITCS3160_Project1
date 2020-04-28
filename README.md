@@ -115,9 +115,11 @@ This is a dumb of the UNCC Delivery schema that displays all the tables.
 
 #### Customers Table
 
-This is the [customers table dump file](uncc_delivery_customers.sql). Below is an image of the populated table:
+This is the [customers table dump file](uncc_delivery_customers.sql). Below is an image that displays part of the populated customers table:
 
 ![customersTable](customersTable.png)
+
+As shown by the image above, the table consists of important information pertaining to the customer which includes their first and last name, credit card information, location, and their order identification number.
 
 #### Employees Table
 
