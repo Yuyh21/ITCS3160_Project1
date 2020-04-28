@@ -123,9 +123,11 @@ As shown by the image above, the table consists of important information pertain
 
 #### Employees Table
 
-This is the [employees table dump file](uncc_delivery_employees.sql). Below is an image that displays part of the populated customers table:
+This is the [employees table dump file](uncc_delivery_employees.sql). Below is an image that displays part of the populated employees table:
 
 ![employeesTable](employeesTable.png)
+
+In the image above, it contains information regarding all the employees for the UNCC Food Delivery. This information includes an employeeId, first and last name, email, phone number, and the employee type (Faculty, Staff, or Student).
 
 #### Employee Type Table
 
