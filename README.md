@@ -123,7 +123,9 @@ As shown by the image above, the table consists of important information pertain
 
 #### Employees Table
 
-![uncc_delivery_employees](uncc_delivery_employees.sql)
+This is the [employees table dump file](uncc_delivery_employees.sql). Below is an image that displays part of the populated customers table:
+
+![employeesTable](employeesTable.png)
 
 #### Employee Type Table
 
