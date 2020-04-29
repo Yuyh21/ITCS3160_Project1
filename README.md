@@ -111,7 +111,7 @@ This database will also serve as a source for providing valuabe information abou
 
 ### X. MySQL dump
 
-This is a dumb of the UNCC Delivery schema that displays all the tables.
+This is a dump of the UNCC Delivery schema that displays all the tables.
 
 #### Customers Table
 
@@ -131,7 +131,9 @@ In the image above, it contains information regarding all the employees for the 
 
 #### Employee Type Table
 
-![uncc_delivery_employee_type](uncc_delivery_employee_type.sql)
+This is the [employees type table dump file](uncc_delivery_employee_type.sql). The image below shows all the different types of employees in the UNCC Food Delivery system which consists of Faculty, Staff, and Student.
+
+![employeeTypeTable](employeeTypeTable.png)
 
 #### Faculty Employee Table
 
