@@ -137,7 +137,9 @@ This is the [employees type table dump file](uncc_delivery_employee_type.sql). T
 
 #### Faculty Employee Table
 
-![uncc_delivery_faculty_employee](uncc_delivery_faculty_employee.sql)
+This is the [faculty employees table dump file](uncc_delivery_faculty_employee.sql). This table consists of everything specific to employees who are faculty members of the university which includes their title, highest degree, and the college of their degree.
+
+![facultyEmployeeTable](facultyEmployeeTable.png)
 
 #### Staff Employee Table
 
