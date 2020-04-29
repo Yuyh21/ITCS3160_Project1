@@ -143,7 +143,15 @@ This is the [faculty employees table dump file](uncc_delivery_faculty_employee.s
 
 #### Staff Employee Table
 
-![uncc_delivery_staff_employee](uncc_delivery_staff_employee.sql)
+This is the [staff employees table dump file](uncc_delivery_staff_employee.sql). Attached below is an image that partially shows the populated staff employees table:
+
+![staffEmployeeTable](staffEmployeeTable.png)
+
+As shown in the above image, the staff employee table contains information pertaining to the Staff employees which includes data regarding their position, and if they are part of administration.
+
+
+
+
 
 #### Student Employee Table
 
