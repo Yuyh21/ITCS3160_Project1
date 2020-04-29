@@ -119,6 +119,8 @@ This is the [customers table dump file](uncc_delivery_customers.sql). Below is a
 
 ![customersTable](customersTable.png)
 
+![customersTable2](customersTable2.png)
+
 As shown by the image above, the table consists of important information pertaining to the customer which includes their first and last name, password, credit card information, and a customer ID .
 
 #### Employees Table
@@ -164,7 +166,9 @@ This is the [delivery personnel table dump file](uncc_delivery_personnel.sql). I
 
 #### Locations Table
 
-![uncc_delivery_locations](uncc_delivery_locations.sql)
+This is the [locations table dump file](uncc_delivery_locations.sql). Below is an image of the populated locations table:
+
+![locationsTable](locationsTable.png)
 
 #### Vendors Table
 
