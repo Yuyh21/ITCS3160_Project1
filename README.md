@@ -170,9 +170,15 @@ This is the [locations table dump file](uncc_delivery_locations.sql). Below is a
 
 ![locationsTable](locationsTable.png)
 
+In the above image, it shows informations pertaining to the deliverable location on campus which includes the location name, the location address, latitude and longitude.
+
 #### Vendors Table
 
-![uncc_delivery_vendors](uncc_delivery_vendors.sql)
+This is the [vendors table dumb file](uncc_delivery_vendors.sql). In the vendors table, it contains data regarding the restaurant vendors such as their name, address, schedule, link to website, and the options they provide for individuals with dietary restrictions. Attached below is an image of the populated vendors table:
+
+![venodorsTable1](vendorsTable1.png)
+
+![vendorsTable2](vendorsTable2.png)
 
 #### Orders Table
 
