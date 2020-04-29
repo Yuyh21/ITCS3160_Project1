@@ -150,12 +150,11 @@ This is the [staff employees table dump file](uncc_delivery_staff_employee.sql).
 As shown in the above image, the staff employee table contains information pertaining to the Staff employees which includes data regarding their position, and if they are part of administration.
 
 
-
-
-
 #### Student Employee Table
 
-![uncc_delivery_student_employee](uncc_delivery_student_employee.sql)
+This is the [student employees table dump file](uncc_delivery_student_employee.sql). Below is an image of the populated student employees table which contains information specific to student employees which consists of their major, if their an undergraduate or graduate, their graduation year, and if they are a delivery personnel.
+
+![studentEmployeeTable](studentEmployeeTable.png)
 
 #### Delivery Personnel Table
 
