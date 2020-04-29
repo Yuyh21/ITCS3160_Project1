@@ -174,7 +174,7 @@ In the above image, it shows informations pertaining to the deliverable location
 
 #### Vendors Table
 
-This is the [vendors table dumb file](uncc_delivery_vendors.sql). In the vendors table, it contains data regarding the restaurant vendors such as their name, address, schedule, link to website, and the options they provide for individuals with dietary restrictions. Attached below is an image of the populated vendors table:
+This is the [vendors table dump file](uncc_delivery_vendors.sql). In the vendors table, it contains data regarding the restaurant vendors such as their name, address, schedule, link to website, and the options they provide for individuals with dietary restrictions. Attached below is an image of the populated vendors table:
 
 ![venodorsTable1](vendorsTable1.png)
 
@@ -182,4 +182,10 @@ This is the [vendors table dumb file](uncc_delivery_vendors.sql). In the vendors
 
 #### Orders Table
 
-![uncc_delivery_orders](uncc_delivery_orders.sql)
+This is the [orders table dump file](uncc_delivery_orders.sql). Attached below is an image of the populated orders table:
+
+![ordersTable1](ordersTable1.png)
+
+![ordersTable2](ordersTable2.png)
+
+As shown in the image above, the orders table consists of information specific to the orders placed by the customers which includes the items on the order, the total price, the delivery fee, the driver, and the delivery time.
