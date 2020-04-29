@@ -158,7 +158,9 @@ This is the [student employees table dump file](uncc_delivery_student_employee.s
 
 #### Delivery Personnel Table
 
-![uncc_delivery_delivery_personnel](uncc_delivery_personnel.sql)
+This is the [delivery personnel table dump file](uncc_delivery_personnel.sql). In this table it contains information specific to the delivery personnel which consists of their license number, their ratings, vehicle type and vehicle color. Below is an image of the populated delivery personnel table:
+
+![deliveryPersonnelTable](deliveryPersonnelTable.png)
 
 #### Locations Table
 
