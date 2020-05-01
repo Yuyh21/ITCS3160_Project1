@@ -204,3 +204,9 @@ In the image below, the box highlighted in red shows the primary key employeeTyp
 The image below shows the primary key employeeId highlighted in red which is in the Employees table. The foreign keys which are highlighted in black are in the Faculty_Employee, Staff_Employee, Student_Employee, and Delivery_Personnel tables:
 
 ![employeeId](employeeId.png)
+
+##### studentId
+
+Attached below is an image that displays the studentId primary key which is highlighted in red in the Student_Employee table. In the Delivery_Personnel it contains the studentId foreign key which is highlighted in black:
+
+![studentId](studentId.png)
