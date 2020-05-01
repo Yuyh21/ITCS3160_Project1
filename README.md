@@ -210,3 +210,9 @@ The image below shows the primary key employeeId highlighted in red which is in 
 Attached below is an image that displays the studentId primary key which is highlighted in red in the Student_Employee table. In the Delivery_Personnel it contains the studentId foreign key which is highlighted in black:
 
 ![studentId](studentId.png)
+
+##### deliveryPersonnelId
+
+The image below shows the primary key deliveryPersonnelId which is highlighted in red in the Delivery_Personnel table. The foreign key which are highlighted in black are in the Orders table:
+
+![deliveryPersonnelId](deliveryPersonnelId.png)
