@@ -189,3 +189,12 @@ This is the [orders table dump file](uncc_delivery_orders.sql). Attached below i
 ![ordersTable2](ordersTable2.png)
 
 As shown in the image above, the orders table consists of information specific to the orders placed by the customers which includes the items on the order, the total price, the delivery fee, the driver, and the delivery time.
+
+
+#### Relationships
+
+##### employeeTypeId
+
+In the image below, the box highlighted in red shows the primary key employeeTypeId in the Employees Type table. For the boxes highlighted in black, those represent the foreign keys which are in the Employees, Faculty_Employee, Staff_Employee, Student_Employee, and Delivery_Personnel tables:
+
+![employeeTypeId](employeeTypeId.png)
