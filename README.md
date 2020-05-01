@@ -216,3 +216,9 @@ Attached below is an image that displays the studentId primary key which is high
 The image below shows the primary key deliveryPersonnelId which is highlighted in red in the Delivery_Personnel table. The foreign key which are highlighted in black are in the Orders table:
 
 ![deliveryPersonnelId](deliveryPersonnelId.png)
+
+##### customerId
+
+In the image below it shows the customerId primary key outlined in red which is in the Customers table. The customerId foreign key is in the Orders table which is outlines in black:
+
+![customerId](customerId.png)
