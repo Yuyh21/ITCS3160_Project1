@@ -219,7 +219,7 @@ The image below shows the primary key deliveryPersonnelId which is highlighted i
 
 ##### customerId
 
-In the image below it shows the customerId primary key outlined in red which is in the Customers table. The customerId foreign key is in the Orders table which is outlines in black:
+In the image below it shows the customerId primary key outlined in red which is in the Customers table. The customerId foreign key is in the Orders table which is outlined in black:
 
 ![customerId](customerId.png)
 
@@ -228,3 +228,15 @@ In the image below it shows the customerId primary key outlined in red which is 
 The image below shows the primary key orderId which is highlighted in red in the Orders table. The foreign key which is in the Customers table is highlighted in black:
 
 ![orderId](orderId.png)
+
+##### locationId
+
+The image shows the primary key locationId which is highlighted in red in the Locations table. The locationId foreign key is in the Customers table which is outlined in black:
+
+![locationId](locationId.png)
+
+##### vendorId
+
+In the image below, it shows the vendorId primary key outlined in red which is in the Vendors table. The vendorId foreign key is in the Orders table which is outlined in black:
+
+![vendorId](vendorId.png)
