@@ -222,3 +222,9 @@ The image below shows the primary key deliveryPersonnelId which is highlighted i
 In the image below it shows the customerId primary key outlined in red which is in the Customers table. The customerId foreign key is in the Orders table which is outlines in black:
 
 ![customerId](customerId.png)
+
+##### orderId
+
+The image below shows the primary key orderId which is highlighted in red in the Orders table. The foreign key which is in the Customers table is highlighted in black:
+
+![orderId](orderId.png)
