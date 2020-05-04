@@ -103,6 +103,10 @@ This database will also serve as a source for providing valuabe information abou
 
 ### VI. MySQL Queries (three)
 
+#### Simplified Views
+
+#### Advanced Views
+
 ### VII. Trigger
 
 ### VIII. Stored Procedure
