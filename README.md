@@ -105,11 +105,17 @@ This database will also serve as a source for providing valuabe information abou
 
 #### Simplified Views
 
-##### 1. Right Join for the employees and employee_id Tables
+##### 1. RIGHT JOIN for the employees and employee_id Tables
 
-This first view is a right join of the employees and employee_id tables and this is the [view file](employee_info_View.sql). Below is an image of what the view looks like:
+This first view is a RIGHT JOIN of the employees and employee_id tables and this is the [view file](employee_info_View.sql). Below is an image of what the view looks like:
 
 ![employee_info_view_Table](employee_info_view_Table.png)
+
+##### 2. GROUP BY for the student_employee table
+
+This second view is a GROUP BY query the counts the number of students and groups them by gradYear and this is the [view file](student_graduation_View.png). Below is an image of what the view looks like:
+
+![student_graduation_view_Table](student_graduation_view_Table.png)
 
 #### Advanced Views
 
