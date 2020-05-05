@@ -113,7 +113,7 @@ This first view is a RIGHT JOIN of the employees and employee_id tables and this
 
 ##### 2. GROUP BY for the student_employee table
 
-This second view is a GROUP BY query the counts the number of students and groups them by gradYear and this is the [view file](student_graduation_View.png). Below is an image of what the view looks like:
+This second view is a GROUP BY query the counts the number of students and groups them by gradYear and this is the [view file](student_graduation_View.sql). Below is an image of what the view looks like:
 
 ![student_graduation_view_Table](student_graduation_view_Table.png)
 
