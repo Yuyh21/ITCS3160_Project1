@@ -12,7 +12,7 @@ By Niara Parker
 
 [Data Dictionary](#v-data-dictionary)
 
-[MySQL Queries](#vi-mysql-queries)
+[MySQL Queries (three)](#vi-mysql-queries-(three))
 
 [Trigger](#vii-trigger)
 
