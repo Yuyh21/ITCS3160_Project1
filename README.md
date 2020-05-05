@@ -105,6 +105,12 @@ This database will also serve as a source for providing valuabe information abou
 
 #### Simplified Views
 
+##### 1. Right Join for the employees and employee_id Tables
+
+This first view is a right join of the employees and employee_id tables and this is the [view file](employee_info_View.sql). Below is an image of what the view looks like:
+
+[employee_info_view_Table](employee_info_view_Table.png)
+
 #### Advanced Views
 
 ### VII. Trigger
