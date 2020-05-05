@@ -111,13 +111,20 @@ This first view is a RIGHT JOIN of the employees and employee_id tables and this
 
 ![employee_info_view_Table](employee_info_view_Table.png)
 
-##### 2. GROUP BY for the student_employee table
+##### 2. GROUP BY for the student_employee Table
 
-This second view is a GROUP BY query the counts the number of students and groups them by gradYear and this is the [view file](student_graduation_View.sql). Below is an image of what the view looks like:
+This second view is a GROUP BY query the counts the number of studeTnts and groups them by gradYear and this is the [view file](student_graduation_View.sql). Below is an image of what the view looks like:
 
 ![student_graduation_view_Table](student_graduation_view_Table.png)
 
 #### Advanced Views
+
+##### 1. CASE WHEN statements for the orders Table with INNER JOIN of vendors Table
+
+In this advanced view it performs a CASE WHEN statement and INNER JOIN. For the CASE WHEN statements it uses the totalPrices from the orders table to determine which orders are considered cheap (totalPrice < 10) , average (10 < totalPrice < 20), and expensive (totalPrice > 20). For the INNER JOIN, it just joins the vendor and orders table to be able to see the vendorName from the vendors table and the orderId, items, totalPrice, and vendorId from the orders table. Click [here](prices_View.sql) to view the view file. Attached below is an image of the table based on the view:
+
+![prices_view_Table](prices_view_Table.png)
+
 
 ### VII. Trigger
 
