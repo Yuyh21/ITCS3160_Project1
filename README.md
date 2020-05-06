@@ -136,7 +136,7 @@ In this advanced view it performs a nested query where it finds the number of cu
 
 #### Insert Employees Trigger
 
-In this trigger, when a new employee is inserted into the employees table a trigger is caused where according to the employeeTypeId of the new employee it'll be inserted into either the faculty_employee if employeeTypeId = 1, staff_employee if employeeTypeId = 2, or student_employee and delivery_personnel tables if employeeTypeId = 3 and the employeeId and employeeTypeId attributed will be populated. Click [here](create_trigger.sql) to view this trigger.
+In this trigger, when a new employee is inserted into the employees table a trigger is caused where according to the employeeTypeId of the new employee it'll be inserted into either the faculty_employee if employeeTypeId = 1, staff_employee if employeeTypeId = 2, or student_employee and delivery_personnel tables if employeeTypeId = 3 and the employeeId and employeeTypeId attributed will be populated. Click [here](insertNewEmployee.sql) to view this trigger.
 
 ### VIII. Stored Procedure
 
