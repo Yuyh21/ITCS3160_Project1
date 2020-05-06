@@ -140,7 +140,7 @@ In this trigger, when a new employee is inserted into the employees table a trig
 
 #### Update Customers Table
 
-In this trigger, it performs an update on the customers table where it updates the orderId attribute of the customers table whenever a new order is made according to the customer who ordered it. Click [here](updateCustomers.sql) to view this trigger.
+In this trigger, it performs an update on the customers table where it updates the orderId attribute of the customers table whenever a new order is made according to the customer who ordered it. Click [here](updateCustomers_trigger.sql) to view this trigger.
 
 ### VIII. Stored Procedure
 
