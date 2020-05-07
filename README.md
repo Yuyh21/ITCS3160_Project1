@@ -18,9 +18,11 @@ By Niara Parker
 
 [Stored Procedure](#viii-stored-procedure)
 
-[Web/App Implementation (Optional) or Description of Future Work](#ix-web/app-inplementation-(optional)-or-description-of-future-work)
+[Future Work](#ix-future-work)
 
 [MySQL dump](#x-mysql-dumb)
+
+[Link to Video](#xi-link-to-video)
 
 ### I. Introduction
 
@@ -286,6 +288,6 @@ In the image below, it shows the vendorId primary key outlined in red which is i
 
 ![vendorId](vendorId.png)
 
-### Link to Video
+### XI. Link to Video
 
 Click [here](https://youtu.be/Kbqtw6JfbDQ)
