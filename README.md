@@ -127,9 +127,9 @@ In this advanced view it performs a CASE WHEN statement and INNER JOIN. For the 
 
 ##### 2. NESTED QUERY to find the number of customers who order Chipotle
 
-In this advanced view it performs a nested query where it finds the number of customers who order from Chipotle by going in the orders table and getting the customerId where orderId = 1 and then returning the count in the outer query. Click [here](chipotleOrders_View.sql) to view the view file. Below is an image of the table based on the view:
+In this advanced view it performs a nested query where it finds the orderId with the max deliveryPrice. Click [here](maxOrderPurchase_View.sql) to view the view file. Below is an image of the table based on the view:
 
-![chipotleOrders_view_Table](chipotleOrders_view_Table.png)
+![maxpurchase_table](maxpurchase_table.png)
 
 
 ### VII. Trigger
