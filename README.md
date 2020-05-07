@@ -142,6 +142,10 @@ In this trigger, when a new employee is inserted into the employees table a trig
 
 In this trigger, it performs an update on the customers table where it updates the orderId attribute of the customers table whenever a new order is made according to the customer who ordered it. Click [here](updateCustomers_trigger.sql) to view this trigger.
 
+#### Update Delivery_Personnel Table
+
+In this trigger, it performs an update on the delivery_personnel table where it update the studentId, employeeId, and employeeTypeId columns of the delivery_personnel table whenever an update is made to the student_employee table and a student is a delivery personnel. Click [here](insertNewDriver.sql) to view this trigger.
+
 ### VIII. Stored Procedure
 
 ### IX. Web/App Implementation (Optional) or Description of Future Work
