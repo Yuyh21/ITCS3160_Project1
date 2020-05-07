@@ -148,6 +148,8 @@ In this trigger, it performs an update on the delivery_personnel table where it 
 
 ### VIII. Stored Procedure
 
+For this stored procedure, it detects inactive customers which are customers who have not ordered anything within 365 days from their last order and will let us know to send out a notification to customer that if they do not renew their account their account will be deleted. Click [here](detectInactiveCustomers.sql) to view stored procedure.
+
 ### IX. Web/App Implementation (Optional) or Description of Future Work
 
 ### X. MySQL dump
