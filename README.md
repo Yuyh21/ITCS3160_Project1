@@ -152,6 +152,8 @@ For this stored procedure, it detects inactive customers which are customers who
 
 ### IX. Web/App Implementation (Optional) or Description of Future Work
 
+In terms of the future work we plan to implement we do plan to eventually add more delivery personnels to our system. In addition, we plan to have a fully functioning website and app. However, due to the COVID-19 outbreak we are currently on a hiatus but once everything returns to normal we should be able to start functioning and hopefully we can expand the amount of vendors we have.
+
 ### X. MySQL dump
 
 This is a dump of the UNCC Delivery schema that displays all the tables.
