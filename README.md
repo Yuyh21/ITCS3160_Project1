@@ -285,3 +285,7 @@ The image shows the primary key locationId which is highlighted in red in the Lo
 In the image below, it shows the vendorId primary key outlined in red which is in the Vendors table. The vendorId foreign key is in the Orders table which is outlined in black:
 
 ![vendorId](vendorId.png)
+
+### Link to Video
+
+Click [here](https://youtu.be/Kbqtw6JfbDQ)
