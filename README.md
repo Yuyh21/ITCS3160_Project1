@@ -77,7 +77,7 @@ This database will also serve as a source for providing valuabe information abou
 
 ### IV. EERD
 
-![unccdeliveryEERD](unccdeliveryEERD.png)
+![updatedEERD](updatedEERD.png)
 
 ### V. Data Dictionary
 
